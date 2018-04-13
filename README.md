@@ -1,4 +1,4 @@
-# Todo App
+# Users management
 
 To start your Phoenix server:
 
